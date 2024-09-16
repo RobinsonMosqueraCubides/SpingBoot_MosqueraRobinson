@@ -1,7 +1,7 @@
-package controller;
+package com.example.taller1.controller;
 
-import model.Product;
-import service.ProductService;
+import com.example.taller1.model.Product;
+import com.example.taller1.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

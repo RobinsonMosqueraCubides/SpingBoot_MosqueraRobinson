@@ -1,7 +1,7 @@
-package service;
+package com.example.taller1.service;
 
-import model.Product;
-import repository.ProductRepository;
+import com.example.taller1.model.Product;
+import com.example.taller1.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
