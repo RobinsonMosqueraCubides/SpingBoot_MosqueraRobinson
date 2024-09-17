@@ -1,6 +1,4 @@
-¡No te preocupes! Supongo que te refieres a **EJB (Enterprise JavaBeans)**. 
-
-### ¿Qué es EJB (Enterprise JavaBeans)?
+# ¿Qué es EJB (Enterprise JavaBeans)?
 
 **Enterprise JavaBeans (EJB)** es una especificación de Java para el desarrollo de **componentes empresariales** distribuidos y transaccionales. Forma parte de la plataforma **Java EE (ahora Jakarta EE)** y está diseñado para simplificar el desarrollo de aplicaciones escalables, seguras y de alto rendimiento en el entorno empresarial.
 
